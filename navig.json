@@ -1,0 +1,3600 @@
+[
+    {
+        "type": "FeatureCollection",
+        "query": [
+            "москва",
+            "проспект",
+            "андропова",
+            "28"
+        ],
+        "features": [
+            {
+                "id": "address.4887681709979880",
+                "type": "Feature",
+                "place_type": [
+                    "address"
+                ],
+                "relevance": 1,
+                "properties": {
+                    "accuracy": "point"
+                },
+                "text": "Проспект Андропова",
+                "place_name": "Russia, Moscow, Москва, округ Нагатино-Садовники, 115533, Проспект Андропова 28",
+                "center": [
+                    37.663471,
+                    55.679844
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.663471,
+                        55.679844
+                    ]
+                },
+                "address": "28",
+                "context": [
+                    {
+                        "id": "postcode.9987505262251680",
+                        "text": "115533"
+                    },
+                    {
+                        "id": "locality.391697815212980",
+                        "text": "округ Нагатино-Садовники"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "address.5430348115951636",
+                "type": "Feature",
+                "place_type": [
+                    "address"
+                ],
+                "relevance": 0.993889,
+                "properties": {
+                    "accuracy": "street"
+                },
+                "text": "Проспект Андропова",
+                "place_name": "Russia, Moscow, Москва, округ Москворечье-Сабурово, 115409, Проспект Андропова",
+                "center": [
+                    37.6662024,
+                    55.6529125
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.6662024,
+                        55.6529125
+                    ]
+                },
+                "context": [
+                    {
+                        "id": "postcode.12328037288389150",
+                        "text": "115409"
+                    },
+                    {
+                        "id": "locality.100301532271610",
+                        "text": "округ Москворечье-Сабурово"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "address.6051190170859726",
+                "type": "Feature",
+                "place_type": [
+                    "address"
+                ],
+                "relevance": 0.993889,
+                "properties": {
+                    "accuracy": "street"
+                },
+                "text": "Проспект Андропова",
+                "place_name": "Russia, Moscow, Москва, округ Нагатинский затон, 115470, Проспект Андропова",
+                "center": [
+                    37.6775201,
+                    55.6739433
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.6775201,
+                        55.6739433
+                    ]
+                },
+                "context": [
+                    {
+                        "id": "postcode.9668982778588850",
+                        "text": "115470"
+                    },
+                    {
+                        "id": "locality.19447200712655660",
+                        "text": "округ Нагатинский затон"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "address.2434267850777520",
+                "type": "Feature",
+                "place_type": [
+                    "address"
+                ],
+                "relevance": 0.993889,
+                "properties": {
+                    "accuracy": "street"
+                },
+                "text": "Проспект Андропова",
+                "place_name": "Russia, Moscow, Москва, округ Даниловский, 115432, Проспект Андропова",
+                "center": [
+                    37.6522822,
+                    55.6868145
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.6522822,
+                        55.6868145
+                    ]
+                },
+                "context": [
+                    {
+                        "id": "postcode.2283500530565810",
+                        "text": "115432"
+                    },
+                    {
+                        "id": "locality.19655100318852180",
+                        "text": "округ Даниловский"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "address.3852287370902812",
+                "type": "Feature",
+                "place_type": [
+                    "address"
+                ],
+                "relevance": 0.703704,
+                "properties": {
+                    "accuracy": "street"
+                },
+                "text": "Проспект Андропова",
+                "place_name": "Russia, Moscow, Москва, округ Нагатино-Садовники, 115533, Проспект Андропова",
+                "center": [
+                    37.6637371,
+                    55.6793671
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.6637371,
+                        55.6793671
+                    ]
+                },
+                "context": [
+                    {
+                        "id": "postcode.9987505262251680",
+                        "text": "115533"
+                    },
+                    {
+                        "id": "locality.391697815212980",
+                        "text": "округ Нагатино-Садовники"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            }
+        ],
+        "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+    },
+    {
+        "type": "FeatureCollection",
+        "query": [
+            "москва",
+            "красная",
+            "площадь"
+        ],
+        "features": [
+            {
+                "id": "address.4882020449596354",
+                "type": "Feature",
+                "place_type": [
+                    "address"
+                ],
+                "relevance": 1,
+                "properties": {
+                    "accuracy": "street"
+                },
+                "text": "Красная Площадь",
+                "place_name": "Russia, Moscow, Москва, округ Тверской, 109012, Красная Площадь",
+                "center": [
+                    37.6234718,
+                    55.7528382
+                ],
+                "geometry": {
+                    "type": "Point",
+                    "coordinates": [
+                        37.6234718,
+                        55.7528382
+                    ]
+                },
+                "context": [
+                    {
+                        "id": "postcode.14162134718905800",
+                        "text": "109012"
+                    },
+                    {
+                        "id": "locality.19562595328979440",
+                        "text": "округ Тверской"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "poi.68719492412",
+                "type": "Feature",
+                "place_type": [
+                    "poi"
+                ],
+                "relevance": 0.666667,
+                "properties": {
+                    "wikidata": "Q2721257",
+                    "landmark": true,
+                    "address": "пл. Революции",
+                    "foursquare": "4be474ff2457a5933b42aa15",
+                    "category": "park",
+                    "maki": "picnic-site"
+                },
+                "text": "Площадь Революции",
+                "place_name": "Площадь Революции, пл. Революции, Москва, Moscow 109012, Russia",
+                "center": [
+                    37.620442,
+                    55.7569425
+                ],
+                "geometry": {
+                    "coordinates": [
+                        37.620442,
+                        55.7569425
+                    ],
+                    "type": "Point"
+                },
+                "context": [
+                    {
+                        "id": "postcode.14162134718905800",
+                        "text": "109012"
+                    },
+                    {
+                        "id": "locality.19562595328979440",
+                        "text": "округ Тверской"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "poi.670014986034",
+                "type": "Feature",
+                "place_type": [
+                    "poi"
+                ],
+                "relevance": 0.666667,
+                "properties": {
+                    "foursquare": "51409b14e4b0f5c7dbebea53",
+                    "landmark": true,
+                    "address": "ул. Кузнецкий Мост",
+                    "category": "park",
+                    "maki": "picnic-site"
+                },
+                "text": "Площадь Шаляпина",
+                "place_name": "Площадь Шаляпина, ул. Кузнецкий Мост, Москва, Moscow 107031, Russia",
+                "center": [
+                    37.619385,
+                    55.761525
+                ],
+                "geometry": {
+                    "coordinates": [
+                        37.619385,
+                        55.761525
+                    ],
+                    "type": "Point"
+                },
+                "context": [
+                    {
+                        "id": "postcode.14467019765103220",
+                        "text": "107031"
+                    },
+                    {
+                        "id": "locality.19562595328979440",
+                        "text": "округ Тверской"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "poi.661425070155",
+                "type": "Feature",
+                "place_type": [
+                    "poi"
+                ],
+                "relevance": 0.666667,
+                "properties": {
+                    "foursquare": "4dc7d219d164eb9ca02717a8",
+                    "landmark": true,
+                    "wikidata": "Q4365835",
+                    "address": "пл. Яузские Ворота",
+                    "category": "park",
+                    "maki": "picnic-site"
+                },
+                "text": "Площадь Яузские Ворота",
+                "place_name": "Площадь Яузские Ворота, пл. Яузские Ворота, Москва, Moscow 109240, Russia",
+                "center": [
+                    37.6428095,
+                    55.7499005
+                ],
+                "geometry": {
+                    "coordinates": [
+                        37.6428095,
+                        55.7499005
+                    ],
+                    "type": "Point"
+                },
+                "context": [
+                    {
+                        "id": "postcode.10157411343388500",
+                        "text": "109240"
+                    },
+                    {
+                        "id": "locality.10290801722652660",
+                        "text": "округ Таганский"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            },
+            {
+                "id": "poi.833223688446",
+                "type": "Feature",
+                "place_type": [
+                    "poi"
+                ],
+                "relevance": 0.666667,
+                "properties": {
+                    "foursquare": "4f899f7ce4b09582a27c3d99",
+                    "landmark": true,
+                    "wikidata": "Q4365612",
+                    "address": "пл. Красные Ворота",
+                    "category": "park",
+                    "maki": "picnic-site"
+                },
+                "text": "Площадь Красные Ворота",
+                "place_name": "Площадь Красные Ворота, пл. Красные Ворота, Москва, Moscow 107078, Russia",
+                "center": [
+                    37.648767500000005,
+                    55.7685405
+                ],
+                "geometry": {
+                    "coordinates": [
+                        37.648767500000005,
+                        55.7685405
+                    ],
+                    "type": "Point"
+                },
+                "context": [
+                    {
+                        "id": "postcode.6614003293058220",
+                        "text": "107078"
+                    },
+                    {
+                        "id": "locality.10384703083725810",
+                        "text": "округ Басманный"
+                    },
+                    {
+                        "id": "place.9707587740083070",
+                        "wikidata": "Q649",
+                        "text": "Москва"
+                    },
+                    {
+                        "id": "region.9888399913557580",
+                        "wikidata": "Q649",
+                        "short_code": "RU-MOW",
+                        "text": "Moscow"
+                    },
+                    {
+                        "id": "country.299986422520",
+                        "wikidata": "Q159",
+                        "short_code": "ru",
+                        "text": "Russia"
+                    }
+                ]
+            }
+        ],
+        "attribution": "NOTICE: © 2021 Mapbox and its suppliers. All rights reserved. Use of this data is subject to the Mapbox Terms of Service (https://www.mapbox.com/about/maps/). This response and the information it contains may not be retained. POI(s) provided by Foursquare."
+    },
+    {
+        "routes": [
+            {
+                "weight_name": "auto",
+                "weight": 2605.471,
+                "duration": 1966.39,
+                "distance": 11732.901,
+                "legs": [
+                    {
+                        "via_waypoints": [],
+                        "annotation": {
+                            "maxspeed": [
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "speed": 60,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "speed": 40,
+                                    "unit": "km/h"
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                },
+                                {
+                                    "unknown": true
+                                }
+                            ],
+                            "distance": [
+                                12.2,
+                                9.1,
+                                4.5,
+                                25.4,
+                                171.6,
+                                34.1,
+                                7.9,
+                                12.5,
+                                5.5,
+                                5.8,
+                                3.8,
+                                24.4,
+                                4.4,
+                                5.7,
+                                6,
+                                12.3,
+                                70.6,
+                                43.5,
+                                41.4,
+                                104.2,
+                                29.7,
+                                30.4,
+                                108.1,
+                                42.3,
+                                26.5,
+                                15.6,
+                                97.3,
+                                9.3,
+                                301.8,
+                                228.5,
+                                241,
+                                32.6,
+                                129.5,
+                                233.2,
+                                284.1,
+                                181.9,
+                                181.7,
+                                5,
+                                60.9,
+                                2.2,
+                                71.8,
+                                100.9,
+                                174.6,
+                                249.7,
+                                22.4,
+                                17.4,
+                                35.2,
+                                85.2,
+                                36.5,
+                                247.7,
+                                85.3,
+                                83,
+                                4.4,
+                                44.4,
+                                29.6,
+                                56.9,
+                                122.2,
+                                115.1,
+                                19.3,
+                                70.7,
+                                80,
+                                45.2,
+                                197.2,
+                                23.7,
+                                28.1,
+                                16.8,
+                                37.7,
+                                59.6,
+                                279.5,
+                                28.8,
+                                134.9,
+                                15.6,
+                                4.8,
+                                51.7,
+                                68.4,
+                                48.9,
+                                43.1,
+                                26.2,
+                                156.1,
+                                65.7,
+                                68,
+                                72.9,
+                                222.9,
+                                38.6,
+                                9.5,
+                                3.1,
+                                1,
+                                10.2,
+                                112.9,
+                                73.3,
+                                62.4,
+                                26.5,
+                                9.2,
+                                33.3,
+                                21.5,
+                                71.1,
+                                102.8,
+                                17.3,
+                                21.6,
+                                71,
+                                65.7,
+                                3.3,
+                                77.9,
+                                23.2,
+                                151.7,
+                                55.8,
+                                94.9,
+                                15.3,
+                                7.6,
+                                6,
+                                9.1,
+                                7.2,
+                                13.7,
+                                16.7,
+                                12.8,
+                                57.6,
+                                45.2,
+                                7.7,
+                                23.7,
+                                3.7,
+                                6.6,
+                                5.9,
+                                5.6,
+                                8.5,
+                                20,
+                                17.8,
+                                11.6,
+                                10.9,
+                                7.9,
+                                8.6,
+                                16.5,
+                                2.7,
+                                4.5,
+                                16.7,
+                                18.6,
+                                60.5,
+                                7.8,
+                                18.5,
+                                23.3,
+                                14.6,
+                                9,
+                                9.1,
+                                14.5,
+                                60.8,
+                                76.1,
+                                4.4,
+                                39.1,
+                                9.4,
+                                6.8,
+                                1.8,
+                                5.4,
+                                5.9,
+                                6.9,
+                                7.5,
+                                14.3,
+                                4.2,
+                                10.2,
+                                8.8,
+                                1.7,
+                                15.5,
+                                9.4,
+                                2.3,
+                                28.8,
+                                19.9,
+                                14.9,
+                                3.1,
+                                20.4,
+                                15.3,
+                                19,
+                                37.5,
+                                42.6,
+                                45.7,
+                                16.3,
+                                17.3,
+                                31.5,
+                                42.6,
+                                35.1,
+                                17,
+                                8.8,
+                                13.7,
+                                34.3,
+                                10.1,
+                                28.6,
+                                26.4,
+                                21.5,
+                                22.3,
+                                16,
+                                36.6,
+                                26.4,
+                                4.8,
+                                15.7,
+                                6.2,
+                                11.5,
+                                6.2,
+                                3.1,
+                                6.6,
+                                9.1,
+                                6.9,
+                                5.9,
+                                5.9,
+                                33.9,
+                                4,
+                                27.7,
+                                13.3,
+                                49.1,
+                                24.7,
+                                3.6,
+                                33.8,
+                                8.2,
+                                68.6,
+                                28.3,
+                                14.8,
+                                7.1,
+                                22.8,
+                                7.8,
+                                11.7,
+                                59,
+                                13.5,
+                                40.9,
+                                30.5,
+                                11.8,
+                                14.9,
+                                74.9,
+                                2.8,
+                                8.2,
+                                11.6,
+                                3.5,
+                                4.3,
+                                5.9,
+                                4.1,
+                                4.6,
+                                4.6,
+                                5,
+                                38.6,
+                                11.5,
+                                2.5,
+                                5.4,
+                                27,
+                                19.8,
+                                15.6,
+                                11.8,
+                                11.6,
+                                43,
+                                34.2,
+                                35.9,
+                                13.2,
+                                39.3,
+                                43.7,
+                                23.4,
+                                18.6,
+                                4.9,
+                                15.8,
+                                12.9,
+                                7.3,
+                                6.6,
+                                27.1,
+                                18.2,
+                                49.7,
+                                30.7,
+                                9.6,
+                                30.5,
+                                50,
+                                4.2,
+                                12,
+                                24.4,
+                                53.9,
+                                10.8,
+                                79.7,
+                                11.1,
+                                6.2,
+                                5.5,
+                                4.8,
+                                6.2,
+                                7.3,
+                                39.4,
+                                6.6,
+                                7,
+                                3,
+                                3.1,
+                                4,
+                                9.7,
+                                24,
+                                45.8,
+                                34.7,
+                                19.8,
+                                28.9,
+                                26,
+                                34.2,
+                                24.4,
+                                111.7,
+                                26.2,
+                                8.5,
+                                6.8,
+                                8.9,
+                                17.3,
+                                12.5,
+                                5.6,
+                                19.3,
+                                50.9,
+                                4.7,
+                                29.6,
+                                27.5,
+                                11.7,
+                                50.6,
+                                75.3,
+                                24.8,
+                                10.5,
+                                14.9,
+                                38.8,
+                                38.7,
+                                12,
+                                7.8,
+                                4.1,
+                                5,
+                                15.1,
+                                7.6,
+                                12,
+                                77.3,
+                                4,
+                                3.2,
+                                3.3,
+                                3.1,
+                                2.8,
+                                53.9,
+                                42.2
+                            ],
+                            "duration": [
+                                2.445,
+                                0.544,
+                                0.269,
+                                1.527,
+                                10.295,
+                                2.048,
+                                2.828,
+                                4.493,
+                                1.994,
+                                2.085,
+                                1.381,
+                                8.799,
+                                1.59,
+                                2.059,
+                                2.159,
+                                4.427,
+                                4.238,
+                                2.609,
+                                2.483,
+                                15.001,
+                                3.337,
+                                3.425,
+                                10.522,
+                                4.113,
+                                2.508,
+                                1.482,
+                                9.216,
+                                0.878,
+                                27.16,
+                                20.561,
+                                19.282,
+                                2.608,
+                                10.358,
+                                17.493,
+                                21.31,
+                                13.645,
+                                13.628,
+                                0.377,
+                                7.556,
+                                0.277,
+                                8.915,
+                                15.786,
+                                28.579,
+                                40.857,
+                                2.984,
+                                2.318,
+                                4.69,
+                                6.668,
+                                4.69,
+                                21.228,
+                                7.312,
+                                8.073,
+                                0.547,
+                                5.512,
+                                4.635,
+                                5.855,
+                                14.662,
+                                34.538,
+                                2.679,
+                                9.795,
+                                11.079,
+                                6.259,
+                                27.304,
+                                3.285,
+                                4.397,
+                                1.73,
+                                3.879,
+                                6.134,
+                                43.747,
+                                4.513,
+                                21.107,
+                                4.009,
+                                1.232,
+                                13.293,
+                                17.58,
+                                12.563,
+                                11.085,
+                                6.733,
+                                22.473,
+                                9.458,
+                                9.789,
+                                10.498,
+                                47.203,
+                                8.18,
+                                1.272,
+                                0.417,
+                                0.132,
+                                1.364,
+                                13.109,
+                                4.627,
+                                17.268,
+                                7.333,
+                                0.95,
+                                3.426,
+                                1.937,
+                                5.951,
+                                8.607,
+                                1.447,
+                                1.808,
+                                6.551,
+                                8.152,
+                                0.514,
+                                21.575,
+                                2.454,
+                                16.059,
+                                5.91,
+                                31.065,
+                                5.02,
+                                2.502,
+                                1.949,
+                                2.983,
+                                2.34,
+                                4.491,
+                                5.469,
+                                4.193,
+                                20.742,
+                                2.853,
+                                0.488,
+                                1.499,
+                                0.75,
+                                1.314,
+                                1.181,
+                                1.119,
+                                1.809,
+                                4.226,
+                                3.374,
+                                2.78,
+                                2.607,
+                                1.885,
+                                2.073,
+                                3.967,
+                                0.658,
+                                1.082,
+                                2.734,
+                                4.191,
+                                13.603,
+                                1.753,
+                                3.697,
+                                3.648,
+                                1.808,
+                                1.118,
+                                1.133,
+                                1.806,
+                                6.835,
+                                9.446,
+                                0.61,
+                                5.415,
+                                1.307,
+                                0.935,
+                                0.254,
+                                0.777,
+                                0.856,
+                                0.996,
+                                1.076,
+                                2.06,
+                                0.798,
+                                0.752,
+                                0.644,
+                                0.126,
+                                4.289,
+                                2.608,
+                                0.826,
+                                8.647,
+                                7.947,
+                                5.96,
+                                0.923,
+                                6.114,
+                                4.579,
+                                5.7,
+                                9.004,
+                                10.222,
+                                10.958,
+                                3.679,
+                                4.151,
+                                7.551,
+                                11.785,
+                                9.718,
+                                2.354,
+                                1.375,
+                                2.145,
+                                7.712,
+                                1.817,
+                                8.593,
+                                7.91,
+                                6.46,
+                                6.692,
+                                4.804,
+                                10.995,
+                                8.633,
+                                1.568,
+                                5.131,
+                                2.014,
+                                3.778,
+                                1.184,
+                                0.585,
+                                1.244,
+                                1.632,
+                                1.239,
+                                1.065,
+                                1.056,
+                                6.1,
+                                0.722,
+                                4.979,
+                                2.391,
+                                6.804,
+                                3.417,
+                                0.492,
+                                4.679,
+                                1.648,
+                                13.726,
+                                5.665,
+                                4.846,
+                                2.328,
+                                7.466,
+                                2.561,
+                                3.505,
+                                17.705,
+                                4.057,
+                                12.282,
+                                10.996,
+                                4.241,
+                                5.372,
+                                26.961,
+                                0.204,
+                                0.605,
+                                0.849,
+                                0.259,
+                                0.318,
+                                0.433,
+                                0.305,
+                                0.335,
+                                0.337,
+                                0.37,
+                                2.832,
+                                0.845,
+                                0.183,
+                                0.393,
+                                1.981,
+                                1.457,
+                                1.147,
+                                0.868,
+                                0.85,
+                                9.101,
+                                2.512,
+                                9.93,
+                                3.663,
+                                11.785,
+                                13.104,
+                                7.007,
+                                5.575,
+                                1.481,
+                                3.347,
+                                1.856,
+                                1.056,
+                                0.95,
+                                3.895,
+                                2.622,
+                                6.887,
+                                4.249,
+                                1.324,
+                                4.996,
+                                9.002,
+                                0.75,
+                                3.32,
+                                6.744,
+                                14.922,
+                                2.992,
+                                5.853,
+                                3.994,
+                                2.239,
+                                1.976,
+                                1.719,
+                                2.214,
+                                2.61,
+                                14.169,
+                                1.582,
+                                1.673,
+                                0.218,
+                                0.229,
+                                0.295,
+                                0.713,
+                                1.766,
+                                2.893,
+                                4.798,
+                                2.853,
+                                4.531,
+                                4.257,
+                                6.162,
+                                4.622,
+                                30.926,
+                                7.263,
+                                2.362,
+                                1.889,
+                                2.465,
+                                4.163,
+                                3.002,
+                                1.342,
+                                4.631,
+                                13.093,
+                                1.196,
+                                8.185,
+                                7.605,
+                                3.236,
+                                10.707,
+                                24.641,
+                                8.112,
+                                3.444,
+                                4.473,
+                                11.643,
+                                11.614,
+                                3.917,
+                                2.54,
+                                1.358,
+                                1.648,
+                                4.927,
+                                2.72,
+                                4.334,
+                                27.824,
+                                1.453,
+                                0.821,
+                                0.836,
+                                0.787,
+                                0.715,
+                                13.855,
+                                10.862
+                            ]
+                        },
+                        "admins": [
+                            {
+                                "iso_3166_1_alpha3": "RUS",
+                                "iso_3166_1": "RU"
+                            }
+                        ],
+                        "weight": 2605.471,
+                        "duration": 1966.39,
+                        "steps": [],
+                        "distance": 11732.901,
+                        "summary": "проспект Андропова, улица Сайкина"
+                    }
+                ],
+                "geometry": {
+                    "coordinates": [
+                        [
+                            37.66384,
+                            55.679823
+                        ],
+                        [
+                            37.663821,
+                            55.679714
+                        ],
+                        [
+                            37.663806,
+                            55.679633
+                        ],
+                        [
+                            37.663798,
+                            55.679593
+                        ],
+                        [
+                            37.663737,
+                            55.679367
+                        ],
+                        [
+                            37.663353,
+                            55.677841
+                        ],
+                        [
+                            37.663281,
+                            55.677537
+                        ],
+                        [
+                            37.663297,
+                            55.677467
+                        ],
+                        [
+                            37.663325,
+                            55.677356
+                        ],
+                        [
+                            37.663354,
+                            55.677309
+                        ],
+                        [
+                            37.663413,
+                            55.677269
+                        ],
+                        [
+                            37.663464,
+                            55.67725
+                        ],
+                        [
+                            37.66385,
+                            55.677221
+                        ],
+                        [
+                            37.66392,
+                            55.677225
+                        ],
+                        [
+                            37.663994,
+                            55.677255
+                        ],
+                        [
+                            37.664058,
+                            55.677295
+                        ],
+                        [
+                            37.664158,
+                            55.67739
+                        ],
+                        [
+                            37.664291,
+                            55.67802
+                        ],
+                        [
+                            37.664372,
+                            55.678408
+                        ],
+                        [
+                            37.664452,
+                            55.678777
+                        ],
+                        [
+                            37.664652,
+                            55.679706
+                        ],
+                        [
+                            37.664701,
+                            55.679971
+                        ],
+                        [
+                            37.664751,
+                            55.680243
+                        ],
+                        [
+                            37.664606,
+                            55.681211
+                        ],
+                        [
+                            37.664648,
+                            55.68159
+                        ],
+                        [
+                            37.664682,
+                            55.681827
+                        ],
+                        [
+                            37.664703,
+                            55.681967
+                        ],
+                        [
+                            37.664829,
+                            55.682838
+                        ],
+                        [
+                            37.664841,
+                            55.682921
+                        ],
+                        [
+                            37.665272,
+                            55.685621
+                        ],
+                        [
+                            37.665533,
+                            55.687668
+                        ],
+                        [
+                            37.665823,
+                            55.689827
+                        ],
+                        [
+                            37.665862,
+                            55.690119
+                        ],
+                        [
+                            37.666035,
+                            55.691278
+                        ],
+                        [
+                            37.666343,
+                            55.693366
+                        ],
+                        [
+                            37.66671,
+                            55.69591
+                        ],
+                        [
+                            37.666944,
+                            55.697539
+                        ],
+                        [
+                            37.667178,
+                            55.699166
+                        ],
+                        [
+                            37.667184,
+                            55.699211
+                        ],
+                        [
+                            37.667262,
+                            55.699756
+                        ],
+                        [
+                            37.667265,
+                            55.699776
+                        ],
+                        [
+                            37.667358,
+                            55.700419
+                        ],
+                        [
+                            37.667434,
+                            55.701324
+                        ],
+                        [
+                            37.667603,
+                            55.70289
+                        ],
+                        [
+                            37.667838,
+                            55.705129
+                        ],
+                        [
+                            37.667842,
+                            55.70533
+                        ],
+                        [
+                            37.667829,
+                            55.705486
+                        ],
+                        [
+                            37.66774,
+                            55.705798
+                        ],
+                        [
+                            37.667517,
+                            55.706553
+                        ],
+                        [
+                            37.667409,
+                            55.706875
+                        ],
+                        [
+                            37.666704,
+                            55.709064
+                        ],
+                        [
+                            37.666461,
+                            55.709818
+                        ],
+                        [
+                            37.666231,
+                            55.710552
+                        ],
+                        [
+                            37.666219,
+                            55.710591
+                        ],
+                        [
+                            37.666079,
+                            55.710982
+                        ],
+                        [
+                            37.665988,
+                            55.711243
+                        ],
+                        [
+                            37.665825,
+                            55.711746
+                        ],
+                        [
+                            37.665498,
+                            55.712828
+                        ],
+                        [
+                            37.665195,
+                            55.713848
+                        ],
+                        [
+                            37.66514,
+                            55.714019
+                        ],
+                        [
+                            37.664946,
+                            55.714645
+                        ],
+                        [
+                            37.664726,
+                            55.715353
+                        ],
+                        [
+                            37.664602,
+                            55.715753
+                        ],
+                        [
+                            37.664061,
+                            55.717498
+                        ],
+                        [
+                            37.663987,
+                            55.717707
+                        ],
+                        [
+                            37.663895,
+                            55.717954
+                        ],
+                        [
+                            37.663833,
+                            55.718101
+                        ],
+                        [
+                            37.663743,
+                            55.718436
+                        ],
+                        [
+                            37.663667,
+                            55.71897
+                        ],
+                        [
+                            37.663776,
+                            55.72148
+                        ],
+                        [
+                            37.663782,
+                            55.721739
+                        ],
+                        [
+                            37.663837,
+                            55.72295
+                        ],
+                        [
+                            37.663843,
+                            55.72309
+                        ],
+                        [
+                            37.663846,
+                            55.723133
+                        ],
+                        [
+                            37.663879,
+                            55.723597
+                        ],
+                        [
+                            37.663856,
+                            55.724211
+                        ],
+                        [
+                            37.663807,
+                            55.724649
+                        ],
+                        [
+                            37.663752,
+                            55.725035
+                        ],
+                        [
+                            37.663695,
+                            55.725268
+                        ],
+                        [
+                            37.663298,
+                            55.726652
+                        ],
+                        [
+                            37.663048,
+                            55.727225
+                        ],
+                        [
+                            37.662743,
+                            55.727811
+                        ],
+                        [
+                            37.662358,
+                            55.728429
+                        ],
+                        [
+                            37.661096,
+                            55.730301
+                        ],
+                        [
+                            37.660895,
+                            55.730629
+                        ],
+                        [
+                            37.660836,
+                            55.730708
+                        ],
+                        [
+                            37.660817,
+                            55.730734
+                        ],
+                        [
+                            37.66081,
+                            55.730742
+                        ],
+                        [
+                            37.660748,
+                            55.730827
+                        ],
+                        [
+                            37.660077,
+                            55.731768
+                        ],
+                        [
+                            37.659617,
+                            55.732373
+                        ],
+                        [
+                            37.659165,
+                            55.732872
+                        ],
+                        [
+                            37.65896,
+                            55.73308
+                        ],
+                        [
+                            37.658881,
+                            55.73315
+                        ],
+                        [
+                            37.658618,
+                            55.73341
+                        ],
+                        [
+                            37.658448,
+                            55.733578
+                        ],
+                        [
+                            37.657903,
+                            55.734138
+                        ],
+                        [
+                            37.657112,
+                            55.734947
+                        ],
+                        [
+                            37.656979,
+                            55.735083
+                        ],
+                        [
+                            37.656813,
+                            55.735253
+                        ],
+                        [
+                            37.656324,
+                            55.735828
+                        ],
+                        [
+                            37.655875,
+                            55.736361
+                        ],
+                        [
+                            37.655854,
+                            55.736388
+                        ],
+                        [
+                            37.655339,
+                            55.737025
+                        ],
+                        [
+                            37.655184,
+                            55.737214
+                        ],
+                        [
+                            37.654185,
+                            55.738455
+                        ],
+                        [
+                            37.653843,
+                            55.738918
+                        ],
+                        [
+                            37.65326,
+                            55.739705
+                        ],
+                        [
+                            37.653174,
+                            55.739834
+                        ],
+                        [
+                            37.653157,
+                            55.739902
+                        ],
+                        [
+                            37.65317,
+                            55.739955
+                        ],
+                        [
+                            37.653201,
+                            55.740035
+                        ],
+                        [
+                            37.65325,
+                            55.740093
+                        ],
+                        [
+                            37.653378,
+                            55.740193
+                        ],
+                        [
+                            37.653583,
+                            55.740289
+                        ],
+                        [
+                            37.653693,
+                            55.740386
+                        ],
+                        [
+                            37.654111,
+                            55.740847
+                        ],
+                        [
+                            37.654391,
+                            55.741221
+                        ],
+                        [
+                            37.654439,
+                            55.741285
+                        ],
+                        [
+                            37.654575,
+                            55.741484
+                        ],
+                        [
+                            37.654563,
+                            55.741517
+                        ],
+                        [
+                            37.654559,
+                            55.741576
+                        ],
+                        [
+                            37.654556,
+                            55.741629
+                        ],
+                        [
+                            37.654565,
+                            55.741679
+                        ],
+                        [
+                            37.654594,
+                            55.741754
+                        ],
+                        [
+                            37.654663,
+                            55.741929
+                        ],
+                        [
+                            37.654726,
+                            55.742085
+                        ],
+                        [
+                            37.654669,
+                            55.742184
+                        ],
+                        [
+                            37.654598,
+                            55.742273
+                        ],
+                        [
+                            37.654532,
+                            55.742333
+                        ],
+                        [
+                            37.654433,
+                            55.742387
+                        ],
+                        [
+                            37.654218,
+                            55.742473
+                        ],
+                        [
+                            37.654182,
+                            55.742487
+                        ],
+                        [
+                            37.654124,
+                            55.742511
+                        ],
+                        [
+                            37.653903,
+                            55.742595
+                        ],
+                        [
+                            37.653666,
+                            55.742696
+                        ],
+                        [
+                            37.652875,
+                            55.743007
+                        ],
+                        [
+                            37.652773,
+                            55.743047
+                        ],
+                        [
+                            37.652531,
+                            55.743142
+                        ],
+                        [
+                            37.652225,
+                            55.743261
+                        ],
+                        [
+                            37.652031,
+                            55.743333
+                        ],
+                        [
+                            37.651906,
+                            55.743373
+                        ],
+                        [
+                            37.651776,
+                            55.74341
+                        ],
+                        [
+                            37.651568,
+                            55.743468
+                        ],
+                        [
+                            37.65078,
+                            55.743786
+                        ],
+                        [
+                            37.649803,
+                            55.744192
+                        ],
+                        [
+                            37.649747,
+                            55.744216
+                        ],
+                        [
+                            37.649252,
+                            55.74443
+                        ],
+                        [
+                            37.649133,
+                            55.744482
+                        ],
+                        [
+                            37.649057,
+                            55.744525
+                        ],
+                        [
+                            37.649039,
+                            55.744538
+                        ],
+                        [
+                            37.648993,
+                            55.744579
+                        ],
+                        [
+                            37.648948,
+                            55.744626
+                        ],
+                        [
+                            37.648904,
+                            55.744683
+                        ],
+                        [
+                            37.648868,
+                            55.744747
+                        ],
+                        [
+                            37.648815,
+                            55.744872
+                        ],
+                        [
+                            37.648801,
+                            55.744909
+                        ],
+                        [
+                            37.648768,
+                            55.744999
+                        ],
+                        [
+                            37.648739,
+                            55.745076
+                        ],
+                        [
+                            37.648733,
+                            55.745091
+                        ],
+                        [
+                            37.648681,
+                            55.745227
+                        ],
+                        [
+                            37.648644,
+                            55.745309
+                        ],
+                        [
+                            37.648635,
+                            55.745329
+                        ],
+                        [
+                            37.648522,
+                            55.74558
+                        ],
+                        [
+                            37.648444,
+                            55.745753
+                        ],
+                        [
+                            37.648359,
+                            55.745878
+                        ],
+                        [
+                            37.648338,
+                            55.745903
+                        ],
+                        [
+                            37.648197,
+                            55.746068
+                        ],
+                        [
+                            37.648076,
+                            55.746187
+                        ],
+                        [
+                            37.647925,
+                            55.746335
+                        ],
+                        [
+                            37.647623,
+                            55.746626
+                        ],
+                        [
+                            37.647279,
+                            55.746956
+                        ],
+                        [
+                            37.646911,
+                            55.74731
+                        ],
+                        [
+                            37.646774,
+                            55.747435
+                        ],
+                        [
+                            37.646662,
+                            55.747577
+                        ],
+                        [
+                            37.646457,
+                            55.747835
+                        ],
+                        [
+                            37.646133,
+                            55.748171
+                        ],
+                        [
+                            37.645841,
+                            55.74844
+                        ],
+                        [
+                            37.645693,
+                            55.748568
+                        ],
+                        [
+                            37.645619,
+                            55.748635
+                        ],
+                        [
+                            37.645482,
+                            55.748731
+                        ],
+                        [
+                            37.645153,
+                            55.748977
+                        ],
+                        [
+                            37.645074,
+                            55.749056
+                        ],
+                        [
+                            37.644849,
+                            55.74928
+                        ],
+                        [
+                            37.644605,
+                            55.749473
+                        ],
+                        [
+                            37.644388,
+                            55.749623
+                        ],
+                        [
+                            37.644146,
+                            55.74977
+                        ],
+                        [
+                            37.643964,
+                            55.749871
+                        ],
+                        [
+                            37.643521,
+                            55.750086
+                        ],
+                        [
+                            37.643201,
+                            55.75024
+                        ],
+                        [
+                            37.643148,
+                            55.750271
+                        ],
+                        [
+                            37.642957,
+                            55.750362
+                        ],
+                        [
+                            37.642881,
+                            55.750397
+                        ],
+                        [
+                            37.642736,
+                            55.750461
+                        ],
+                        [
+                            37.642658,
+                            55.750496
+                        ],
+                        [
+                            37.642619,
+                            55.750513
+                        ],
+                        [
+                            37.642531,
+                            55.750545
+                        ],
+                        [
+                            37.642407,
+                            55.750587
+                        ],
+                        [
+                            37.642319,
+                            55.750624
+                        ],
+                        [
+                            37.642253,
+                            55.750662
+                        ],
+                        [
+                            37.64219,
+                            55.750701
+                        ],
+                        [
+                            37.641869,
+                            55.750946
+                        ],
+                        [
+                            37.641831,
+                            55.750975
+                        ],
+                        [
+                            37.641569,
+                            55.751175
+                        ],
+                        [
+                            37.641443,
+                            55.751271
+                        ],
+                        [
+                            37.640984,
+                            55.751629
+                        ],
+                        [
+                            37.640754,
+                            55.751809
+                        ],
+                        [
+                            37.640721,
+                            55.751835
+                        ],
+                        [
+                            37.640405,
+                            55.752081
+                        ],
+                        [
+                            37.640328,
+                            55.752141
+                        ],
+                        [
+                            37.639692,
+                            55.752643
+                        ],
+                        [
+                            37.639429,
+                            55.75285
+                        ],
+                        [
+                            37.639291,
+                            55.752958
+                        ],
+                        [
+                            37.639225,
+                            55.75301
+                        ],
+                        [
+                            37.639027,
+                            55.753182
+                        ],
+                        [
+                            37.638947,
+                            55.753236
+                        ],
+                        [
+                            37.638784,
+                            55.753287
+                        ],
+                        [
+                            37.637961,
+                            55.753545
+                        ],
+                        [
+                            37.637797,
+                            55.753624
+                        ],
+                        [
+                            37.637402,
+                            55.753917
+                        ],
+                        [
+                            37.637113,
+                            55.754138
+                        ],
+                        [
+                            37.636966,
+                            55.754204
+                        ],
+                        [
+                            37.636745,
+                            55.754154
+                        ],
+                        [
+                            37.635638,
+                            55.7539
+                        ],
+                        [
+                            37.635596,
+                            55.753892
+                        ],
+                        [
+                            37.635468,
+                            55.753875
+                        ],
+                        [
+                            37.635287,
+                            55.753855
+                        ],
+                        [
+                            37.635231,
+                            55.753852
+                        ],
+                        [
+                            37.635162,
+                            55.753851
+                        ],
+                        [
+                            37.63507,
+                            55.753862
+                        ],
+                        [
+                            37.635012,
+                            55.75388
+                        ],
+                        [
+                            37.634959,
+                            55.753908
+                        ],
+                        [
+                            37.634915,
+                            55.753941
+                        ],
+                        [
+                            37.634881,
+                            55.753982
+                        ],
+                        [
+                            37.634659,
+                            55.754305
+                        ],
+                        [
+                            37.634601,
+                            55.754403
+                        ],
+                        [
+                            37.634587,
+                            55.754424
+                        ],
+                        [
+                            37.634557,
+                            55.754469
+                        ],
+                        [
+                            37.634402,
+                            55.754695
+                        ],
+                        [
+                            37.634292,
+                            55.754862
+                        ],
+                        [
+                            37.634179,
+                            55.754987
+                        ],
+                        [
+                            37.634085,
+                            55.755079
+                        ],
+                        [
+                            37.633984,
+                            55.755166
+                        ],
+                        [
+                            37.633595,
+                            55.755484
+                        ],
+                        [
+                            37.633283,
+                            55.755736
+                        ],
+                        [
+                            37.63295,
+                            55.755998
+                        ],
+                        [
+                            37.632828,
+                            55.756095
+                        ],
+                        [
+                            37.632444,
+                            55.756374
+                        ],
+                        [
+                            37.632064,
+                            55.756703
+                        ],
+                        [
+                            37.631853,
+                            55.756876
+                        ],
+                        [
+                            37.631681,
+                            55.757012
+                        ],
+                        [
+                            37.631635,
+                            55.757048
+                        ],
+                        [
+                            37.631487,
+                            55.757163
+                        ],
+                        [
+                            37.631362,
+                            55.757255
+                        ],
+                        [
+                            37.63128,
+                            55.757302
+                        ],
+                        [
+                            37.631204,
+                            55.757343
+                        ],
+                        [
+                            37.630892,
+                            55.757511
+                        ],
+                        [
+                            37.630662,
+                            55.757611
+                        ],
+                        [
+                            37.630117,
+                            55.757936
+                        ],
+                        [
+                            37.629806,
+                            55.758149
+                        ],
+                        [
+                            37.629715,
+                            55.758218
+                        ],
+                        [
+                            37.629417,
+                            55.758435
+                        ],
+                        [
+                            37.62893,
+                            55.758791
+                        ],
+                        [
+                            37.628888,
+                            55.75882
+                        ],
+                        [
+                            37.628766,
+                            55.758903
+                        ],
+                        [
+                            37.628517,
+                            55.759071
+                        ],
+                        [
+                            37.627973,
+                            55.759446
+                        ],
+                        [
+                            37.627868,
+                            55.759523
+                        ],
+                        [
+                            37.627052,
+                            55.760072
+                        ],
+                        [
+                            37.626889,
+                            55.760111
+                        ],
+                        [
+                            37.626791,
+                            55.76012
+                        ],
+                        [
+                            37.626704,
+                            55.760114
+                        ],
+                        [
+                            37.626634,
+                            55.760097
+                        ],
+                        [
+                            37.626558,
+                            55.760062
+                        ],
+                        [
+                            37.626496,
+                            55.760007
+                        ],
+                        [
+                            37.626225,
+                            55.759688
+                        ],
+                        [
+                            37.626161,
+                            55.759641
+                        ],
+                        [
+                            37.626119,
+                            55.759583
+                        ],
+                        [
+                            37.626108,
+                            55.759557
+                        ],
+                        [
+                            37.626108,
+                            55.759529
+                        ],
+                        [
+                            37.626123,
+                            55.759494
+                        ],
+                        [
+                            37.626192,
+                            55.759416
+                        ],
+                        [
+                            37.626341,
+                            55.759217
+                        ],
+                        [
+                            37.626794,
+                            55.758894
+                        ],
+                        [
+                            37.627133,
+                            55.758648
+                        ],
+                        [
+                            37.627326,
+                            55.758507
+                        ],
+                        [
+                            37.627608,
+                            55.758301
+                        ],
+                        [
+                            37.627864,
+                            55.758117
+                        ],
+                        [
+                            37.628199,
+                            55.757874
+                        ],
+                        [
+                            37.628438,
+                            55.757701
+                        ],
+                        [
+                            37.62953,
+                            55.756908
+                        ],
+                        [
+                            37.629787,
+                            55.756722
+                        ],
+                        [
+                            37.629876,
+                            55.756664
+                        ],
+                        [
+                            37.62996,
+                            55.756625
+                        ],
+                        [
+                            37.630075,
+                            55.756578
+                        ],
+                        [
+                            37.629872,
+                            55.756472
+                        ],
+                        [
+                            37.62973,
+                            55.756393
+                        ],
+                        [
+                            37.629666,
+                            55.756358
+                        ],
+                        [
+                            37.629442,
+                            55.756239
+                        ],
+                        [
+                            37.628802,
+                            55.755957
+                        ],
+                        [
+                            37.62874,
+                            55.755934
+                        ],
+                        [
+                            37.628338,
+                            55.755795
+                        ],
+                        [
+                            37.627954,
+                            55.755676
+                        ],
+                        [
+                            37.62779,
+                            55.755626
+                        ],
+                        [
+                            37.627094,
+                            55.755396
+                        ],
+                        [
+                            37.626056,
+                            55.755055
+                        ],
+                        [
+                            37.625725,
+                            55.754933
+                        ],
+                        [
+                            37.625591,
+                            55.754876
+                        ],
+                        [
+                            37.62541,
+                            55.754789
+                        ],
+                        [
+                            37.624886,
+                            55.754603
+                        ],
+                        [
+                            37.624353,
+                            55.754427
+                        ],
+                        [
+                            37.624191,
+                            55.75437
+                        ],
+                        [
+                            37.624086,
+                            55.754333
+                        ],
+                        [
+                            37.624029,
+                            55.754314
+                        ],
+                        [
+                            37.623962,
+                            55.754289
+                        ],
+                        [
+                            37.623778,
+                            55.754202
+                        ],
+                        [
+                            37.623691,
+                            55.754155
+                        ],
+                        [
+                            37.623543,
+                            55.754086
+                        ],
+                        [
+                            37.62258,
+                            55.753652
+                        ],
+                        [
+                            37.622537,
+                            55.753625
+                        ],
+                        [
+                            37.622512,
+                            55.7536
+                        ],
+                        [
+                            37.622506,
+                            55.753571
+                        ],
+                        [
+                            37.622515,
+                            55.753544
+                        ],
+                        [
+                            37.622539,
+                            55.753523
+                        ],
+                        [
+                            37.623085,
+                            55.753149
+                        ],
+                        [
+                            37.623472,
+                            55.752838
+                        ]
+                    ],
+                    "type": "LineString"
+                }
+            }
+        ],
+        "waypoints": [
+            {
+                "distance": 23.292,
+                "name": "проспект Андропова",
+                "location": [
+                    37.66384,
+                    55.679823
+                ]
+            },
+            {
+                "distance": 0,
+                "name": "Красная площадь",
+                "location": [
+                    37.623472,
+                    55.752838
+                ]
+            }
+        ],
+        "code": "Ok",
+        "uuid": "hWaK3tgFMP3f4TRkOX5kIqGK9Rwoh72A6H_4pPm_zL22v5LLXhRU5A=="
+    }
+]
